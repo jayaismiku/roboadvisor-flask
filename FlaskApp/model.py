@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 dataframe = pd.read_csv('static/dataset/dataset.csv')
-datatest = pd.read_csv('./static/dataset/datatest.csv')
+datatest = pd.read_csv('static/dataset/datatest.csv')
 
 # print(datatest.head(), '\n')
 # print(dataframe.columns, '\n')
