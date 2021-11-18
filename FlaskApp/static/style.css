@@ -1,0 +1,31 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+.icon-list {
+padding-left: 0;
+list-style: none;
+}
+.icon-list li {
+display: flex;
+align-items: flex-start;
+margin-bottom: .25rem;
+}
+.icon-list li::before {
+display: block;
+flex-shrink: 0;
+width: 1.5em;
+height: 1.5em;
+margin-right: .5rem;
+content: "";
+background: white;
+}
+
+@media (min-width: 768px) {
+.bd-placeholder-img-lg {
+  font-size: 3.5rem;
+}
+}

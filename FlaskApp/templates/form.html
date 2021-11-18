@@ -1,0 +1,190 @@
+{% extends "template.html" %}
+{% block content %}
+<form method="POST" action="/predict" accept-charset="UTF-8">
+  <div class="form-floating mb-3">
+    <input type="text" class="form-control" id="namalengkap" name="namalengkap" placeholder="Nama Lengkap"
+           required>
+    <label for="namalengkap">Nama Lengkap</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="kelamin" name="kelamin" required>
+      <option selected></option>
+      <option value="1">Laki-laki</option>
+      <option value="0">Perempuan</option>
+    </select>
+    <label for="kelamin" class="form-label">Jenis Kelamin:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="nikah" name="nikah" required>
+      <option selected></option>
+      <option value="1">Menikah</option>
+      <option value="0">Belum Menikah</option>
+      <option value="1">Duda</option>
+      <option value="1">Janda</option>
+    </select>
+    <label for="nikah" class="form-label">Status Pernikahan:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="tanggungan" name="tanggungan" required>
+      <option selected></option>
+      <option value="0">0</option>
+      <option value="1">1 Orang</option>
+      <option value="2">2 Orang</option>
+      <option value="3">3 orang</option>
+      <option value="4">lebih dari 3 orang</option>
+    </select>
+    <label for="tanggungan" class="form-label">Jumlah Tanggungan:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="pendidikan" name="pendidikan" required>
+      <option selected></option>
+      <option value="0">Tidak Sekolah/Tidak lulus SD</option>
+      <option value="1">SD</option>
+      <option value="2">SMP</option>
+      <option value="3">SMA</option>
+      <option value="4">Sarjana</option>
+      <option value="5">Pasca Sarjana</option>
+    </select>
+    <label for="pendidikan" class="form-label">Pendidikan Terakhir:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="pekerjaan" name="pekerjaan" required>
+      <option selected></option>
+      <option value="1">Wiraswasta</option>
+      <option value="2">PNS/BUMN</option>
+      <option value="3">POLRI-TNI</option>
+      <option value="4">Pegawai Swasta</option>
+      <option value="5">Buruh/Buruh Lepas</option>
+    </select>
+    <label for="pekerjaan" class="form-label">Jenis Pekerjaan Anda:</label>
+  </div>
+  <!--<div class="form-floating mb-3">
+    <select class="form-select" id="alamatprovinsi" name="alamat_provinsi" required>
+      <option value="12" selected>Jawa Barat</option>
+    </select>
+    <label for="alamatprovinsi" class="form-label">Alamat (Provinsi):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="alamatkota" name="alamat_kota" required>
+      <option selected></option>
+      <option value="158">Depok</option>
+      <option value="159">Karawang</option>
+      <option value="160">Cirebon</option>
+      <option value="161">Bandung</option>
+      <option value="162">Sukabumi</option>
+      <option value="163">Sumedang</option>
+      <option value="164">Indramayu</option>
+      <option value="165">Majalengka</option>
+      <option value="166">Kuningan</option>
+      <option value="167">Tasikmalaya</option>
+      <option value="168">Ciamis</option>
+      <option value="169">Subang</option>
+      <option value="170">Purwakarta</option>
+      <option value="171">Bogor</option>
+      <option value="172">Bekasi</option>
+      <option value="173">Garut</option>
+      <option value="174">Pangandaran</option>
+      <option value="175">Cianjur</option>
+      <option value="176">Banjar</option>
+    </select>
+    <label for="alamatkota" class="form-label">Alamat (Kota/Kabupaten):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="alamatkecamatan" name="alamat_kecamatan" required>
+        <option selected></option>
+    </select>
+    <label for="alamatkecamatan" class="form-label">Alamat (Kecamatan):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="alamatkelurahan" name="alamat_kelurahan" required>
+      <option selected></option>
+    </select>
+    <label for="alamatkelurahan" class="form-label">Alamat (Kelurahan):</label>
+  </div>-->
+  <div class="form-floating mb-3">
+    <select class="form-select" id="pendapatanutama" name="pendapatanutama" required>
+      <option selected></option>
+      <option value="1">Kurang dari 1jt</option>
+      <option value="2">1jt - 5jt</option>
+      <option value="3">5jt - 10jt</option>
+      <option value="4">10jt - 20jt</option>
+      <option value="5">20jt - 30jt</option>
+      <option value="6">Lebih dari 30jt</option>
+    </select>
+    <label for="pendapatanutama" class="form-label">Pendapatan Utama (Per Bulan):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="pendapatantambahan" name="pendapatantambahan" required>
+      <option selected></option>
+      <option value="0">Tidak Punya</option>
+      <option value="1">Kurang dari 1jt</option>
+      <option value="2">1jt - 5jt</option>
+      <option value="3">5jt - 10jt</option>
+      <option value="4">10jt - 20jt</option>
+      <option value="5">20jt - 30jt</option>
+      <option value="6">Lebih dari 30jt</option>
+    </select>
+    <label for="pendapatantambahan" class="form-label">Pendapatan Tambahan (Per Bulan):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="jenisproperti" name="jenisproperti" required>
+      <option selected></option>
+      <option value="1">Tanah</option>
+      <option value="2">Rumah</option>
+    </select>
+    <label for="jenisproperti" class="form-label">Jenis Properti:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="nup" name="nup" required>
+      <option selected></option>
+      <option value="0">Belum</option>
+      <option value="1">Sudah</option>
+    </select>
+    <label for="nup" class="form-label">Sudah punya Nomor Urut Pembelian (NUP):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="bookingfee" name="bookingfee" required>
+      <option selected></option>
+      <option value="0">Belum</option>
+      <option value="1">Sudah</option>
+    </select>
+    <label for="bookingfee" class="form-label">Sudah membayar <i>Booking Fee</i>:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <input type="text" class="form-control" id="hargarumah" name="hargarumah" placeholder="Harga Rumah"
+           required>
+    <label for="hargarumah" class="form-label">Harga Rumah yang dibeli (Rp.):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <input type="text" class="form-control" id="uangmuka" name="uangmuka" placeholder="Uang Muka" required>
+    <label for="uangmuka" class="form-label">Uang muka (Rp.):</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="periodecicilan" name="periodecicilan" required>
+      <option selected></option>
+      <option value="12">12 Bulan</option>
+      <option value="18">18 Bulan</option>
+      <option value="24">24 Bulan</option>
+    </select>
+    <label for="periodecicilan" class="form-label">Periode Cicilan Rumah:</label>
+  </div>
+  <div class="form-floating mb-3">
+    <select class="form-select" id="cicilanlain" name="cicilanlain" required>
+      <option selected></option>
+      <option value="0">Tidak Ada</option>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">Lebih dari 2</option>
+    </select>
+    <label for="cicilanlain" class="form-label">Adakah Cicilan Lain?</label>
+  </div>
+  <p></p>
+  <div class="mb-3 text-center">
+      <p>Demikian permohonan ini saya ajukan dan saya bersedia mematuhi ketentuan yang berlaku dari
+        Developer</p>
+      <button type="submit" class="btn btn-primary">Ajukan Pembelian</button>
+      <button type="reset" class="btn btn-warning">Reset Form</button>
+      <button type="button" id="batal" onclick="window.location.href='/'" class="btn btn-danger">Batal</button>
+  </div>
+</form>
+{% endblock %}

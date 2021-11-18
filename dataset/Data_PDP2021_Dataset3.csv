@@ -1,0 +1,601 @@
+NamaPembeli,Kelamin,Menikah,Tanggungan,Pendidikan,Pekerjaan,PendapatanUtama,PemasukanTambahan,JenisProperti,NUP,BookingFee,BiayaRumahTanah,UangMuka,PeriodeCicilan,RiwayatPinjaman,PersetujuanPembelian
+Pembeli 001,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Rumah,Ya,Ya,227000000,62000000,18,1,Ya
+Pembeli 002,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,125000000,26000000,18,0,Ya
+Pembeli 003,L,Ya,2,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,242000000,92000000,18,2+,Tidak
+Pembeli 004,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,192000000,62000000,18,0,Ya
+Pembeli 005,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,250000000,74000000,18,0,Ya
+Pembeli 006,L,Ya,2,SMA,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Rumah,Tidak,Ya,216000000,70000000,18,1,Ya
+Pembeli 007,L,Ya,1,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,198000000,61000000,18,2+,Tidak
+Pembeli 008,L,Ya,3+,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,139000000,36000000,18,2,Ya
+Pembeli 009,L,Ya,3,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,233000000,85000000,18,0,Ya
+Pembeli 010,L,Ya,1,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,115000000,30000000,18,2,Ya
+Pembeli 011,L,Ya,3,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,223000000,79000000,18,0,Ya
+Pembeli 012,L,Ya,3,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,211000000,82000000,18,1,Ya
+Pembeli 013,L,Ya,2,Pasca Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Ya,Ya,223000000,62000000,18,2,Ya
+Pembeli 014,L,Tidak,0,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,118000000,21000000,18,2+,Ya
+Pembeli 015,L,Ya,2,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,241000000,88000000,12,2,Ya
+Pembeli 016,L,Tidak,0,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,237000000,68000000,18,2+,Tidak
+Pembeli 017,L,Tidak,0,Sarjana,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Tidak,Ya,242000000,81000000,12,2+,Ya
+Pembeli 018,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,220000000,61000000,18,2+,Tidak
+Pembeli 019,L,Ya,3,SMA,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,149000000,42000000,18,2,Ya
+Pembeli 020,L,Ya,3,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Rumah,Tidak,Ya,227000000,72000000,18,2,Ya
+Pembeli 021,L,Ya,1,SMP,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Ya,Ya,194000000,94000000,18,2+,Ya
+Pembeli 022,L,Ya,1,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,237000000,84000000,18,0,Tidak
+Pembeli 023,L,Ya,2,SMP,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,110000000,26000000,18,1,Ya
+Pembeli 024,P,Ya,3+,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Tanah,Ya,Ya,143000000,37000000,18,2,Ya
+Pembeli 025,L,Ya,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,122000000,20000000,18,1,Tidak
+Pembeli 026,L,Ya,3+,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,105000000,29000000,18,0,Ya
+Pembeli 027,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,130000000,23000000,18,2+,Tidak
+Pembeli 028,L,Ya,1,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,241000000,59000000,18,1,Tidak
+Pembeli 029,L,Tidak,0,SMA,PNS,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,188000000,61000000,18,1,Ya
+Pembeli 030,P,Tidak,0,Pasca Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Ya,Ya,110000000,23000000,18,0,Ya
+Pembeli 031,L,Ya,3,SMA,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,208000000,97000000,18,0,Ya
+Pembeli 032,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,203000000,80000000,18,2+,Tidak
+Pembeli 033,L,Tidak,0,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,149000000,13000000,18,2+,Tidak
+Pembeli 034,L,Ya,3+,Sarjana,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Tanah,Ya,Ya,125000000,24000000,18,2,Ya
+Pembeli 035,L,Tidak,0,SMP,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,115000000,10000000,18,1,Ya
+Pembeli 036,L,Ya,3+,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,212000000,53000000,18,2,Tidak
+Pembeli 037,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,221000000,93000000,18,2+,Tidak
+Pembeli 038,P,Ya,3,SMP,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Ya,Ya,127000000,21000000,18,2,Ya
+Pembeli 039,L,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,249000000,62000000,18,0,Ya
+Pembeli 040,L,Tidak,0,SMA,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,138000000,12000000,18,2,Tidak
+Pembeli 041,L,Tidak,0,SMA,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,222000000,78000000,18,2,Ya
+Pembeli 042,L,Tidak,0,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,193000000,71000000,18,2,Ya
+Pembeli 043,L,Ya,1,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,211000000,99000000,18,2,Tidak
+Pembeli 044,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,111000000,44000000,18,0,Tidak
+Pembeli 045,L,Ya,3+,Pasca Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Rumah,Ya,Ya,249000000,61000000,18,1,Ya
+Pembeli 046,P,Tidak,0,SMA,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,183000000,95000000,18,2,Ya
+Pembeli 047,L,Ya,2,Sarjana,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Ya,Ya,247000000,61000000,18,0,Ya
+Pembeli 048,L,Ya,3,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,180000000,81000000,18,2,Tidak
+Pembeli 049,P,Ya,1,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Ya,Ya,232000000,81000000,18,1,Ya
+Pembeli 050,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,100000000,11000000,18,2,Tidak
+Pembeli 051,P,Ya,2,Pasca Sarjana,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,124000000,11000000,18,0,Ya
+Pembeli 052,P,Tidak,0,SMA,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Tanah,Ya,Ya,113000000,18000000,18,1,Ya
+Pembeli 053,P,Tidak,0,SMA,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,114000000,43000000,18,2+,Ya
+Pembeli 054,L,Ya,3+,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Ya,Ya,207000000,59000000,18,1,Ya
+Pembeli 055,P,Ya,3+,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,180000000,75000000,18,2+,Tidak
+Pembeli 056,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,138000000,47000000,18,2+,Tidak
+Pembeli 057,L,Ya,3+,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,115000000,47000000,18,2+,Tidak
+Pembeli 058,L,Ya,1,Sarjana,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,105000000,25000000,18,1,Ya
+Pembeli 059,L,Ya,3+,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,198000000,92000000,18,1,Ya
+Pembeli 060,L,Ya,3,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,189000000,57000000,18,0,Tidak
+Pembeli 061,L,Ya,3,SMA,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,201000000,84000000,18,2,Ya
+Pembeli 062,L,Ya,1,SMA,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Tidak,Ya,221000000,75000000,18,2,Tidak
+Pembeli 063,L,Ya,3+,Pasca Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,147000000,42000000,12,1,Ya
+Pembeli 064,L,Ya,3+,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,118000000,26000000,18,2+,Ya
+Pembeli 065,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,106000000,43000000,18,2,Tidak
+Pembeli 066,L,Ya,3+,SMP,Wiraswasta,>30jt,5jt s.d. <10jt,Tanah,Ya,Ya,110000000,11000000,18,0,Ya
+Pembeli 067,L,Tidak,0,Pasca Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,184000000,58000000,12,0,Ya
+Pembeli 068,L,Ya,1,SMA,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Tidak,Ya,204000000,55000000,18,2,Ya
+Pembeli 069,L,Ya,3+,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,186000000,70000000,24,2,Ya
+Pembeli 070,P,Tidak,0,SMA,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,146000000,50000000,18,1,Ya
+Pembeli 071,L,Ya,1,Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Rumah,Tidak,Ya,235000000,72000000,18,0,Ya
+Pembeli 072,L,Ya,2,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,124000000,45000000,18,2,Ya
+Pembeli 073,L,Tidak,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,107000000,50000000,18,1,Ya
+Pembeli 074,L,Ya,1,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,136000000,32000000,12,2,Tidak
+Pembeli 075,L,Ya,2,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,104000000,47000000,18,2+,Tidak
+Pembeli 076,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,186000000,70000000,24,0,Ya
+Pembeli 077,L,Tidak,0,SMA,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,234000000,83000000,18,0,Ya
+Pembeli 078,L,Ya,1,SMP,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,188000000,93000000,18,2,Ya
+Pembeli 079,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,130000000,33000000,18,1,Tidak
+Pembeli 080,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,127000000,23000000,18,2,Tidak
+Pembeli 081,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,128000000,12000000,18,0,Tidak
+Pembeli 082,L,Ya,3+,Pasca Sarjana,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,146000000,39000000,18,1,Ya
+Pembeli 083,P,Ya,2,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,192000000,75000000,18,2+,Tidak
+Pembeli 084,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,146000000,13000000,18,2+,Tidak
+Pembeli 085,L,Ya,3,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,209000000,67000000,12,2,Tidak
+Pembeli 086,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,126000000,17000000,18,1,Ya
+Pembeli 087,L,Ya,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,117000000,19000000,18,2,Tidak
+Pembeli 088,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,127000000,40000000,18,2,Tidak
+Pembeli 089,L,Tidak,0,SMA,PNS,10jt s.d. <20jt,<1jt,Rumah,Ya,Ya,250000000,59000000,18,1,Ya
+Pembeli 090,L,Ya,2,Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,117000000,48000000,18,2+,Tidak
+Pembeli 091,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,100000000,43000000,18,2,Tidak
+Pembeli 092,L,Ya,3,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,115000000,17000000,12,0,Tidak
+Pembeli 093,L,Ya,1,Pasca Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,187000000,70000000,18,2+,Tidak
+Pembeli 094,L,Tidak,0,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,110000000,36000000,18,0,Ya
+Pembeli 095,L,Tidak,0,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,129000000,14000000,12,2,Ya
+Pembeli 096,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,181000000,76000000,18,2+,Tidak
+Pembeli 097,P,Ya,3+,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,127000000,17000000,18,0,Ya
+Pembeli 098,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,106000000,14000000,24,1,Ya
+Pembeli 099,L,Ya,2,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Tidak,Ya,142000000,10000000,12,0,Ya
+Pembeli 100,L,Ya,2,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,149000000,10000000,18,2+,Tidak
+Pembeli 101,L,Ya,1,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Tidak,Ya,247000000,84000000,12,0,Ya
+Pembeli 102,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,104000000,37000000,18,0,Ya
+Pembeli 103,L,Ya,1,Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,199000000,86000000,18,2,Ya
+Pembeli 104,L,Ya,3+,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,103000000,37000000,18,2,Ya
+Pembeli 105,L,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Ya,Ya,249000000,63000000,18,0,Ya
+Pembeli 106,L,Ya,3,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,248000000,58000000,18,2,Tidak
+Pembeli 107,L,Ya,3+,Pasca Sarjana,PNS,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,218000000,69000000,18,2,Tidak
+Pembeli 108,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,147000000,49000000,18,0,Tidak
+Pembeli 109,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,231000000,66000000,18,0,Tidak
+Pembeli 110,L,Ya,3,Sarjana,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,141000000,42000000,24,2+,Ya
+Pembeli 111,L,Tidak,0,SMA,PNS,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,189000000,64000000,18,1,Ya
+Pembeli 112,P,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,132000000,16000000,18,1,Tidak
+Pembeli 113,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,139000000,26000000,12,2,Tidak
+Pembeli 114,P,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,135000000,43000000,18,2,Ya
+Pembeli 115,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,142000000,35000000,18,2+,Tidak
+Pembeli 116,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,133000000,11000000,12,1,Tidak
+Pembeli 117,P,Ya,3+,SMP,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Ya,Ya,135000000,43000000,18,1,Ya
+Pembeli 118,L,Ya,3,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,217000000,51000000,18,1,Tidak
+Pembeli 119,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,147000000,44000000,18,0,Ya
+Pembeli 120,P,Tidak,0,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Rumah,Ya,Ya,229000000,85000000,18,2+,Tidak
+Pembeli 121,L,Ya,2,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,122000000,14000000,18,1,Ya
+Pembeli 122,P,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,103000000,17000000,18,2+,Tidak
+Pembeli 123,P,Tidak,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,128000000,11000000,18,1,Ya
+Pembeli 124,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,112000000,49000000,18,2+,Tidak
+Pembeli 125,L,Ya,0,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,130000000,19000000,18,2,Ya
+Pembeli 126,P,Tidak,0,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,149000000,44000000,18,2+,Ya
+Pembeli 127,P,Ya,3+,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,132000000,46000000,18,0,Tidak
+Pembeli 128,L,Tidak,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,148000000,23000000,18,2,Ya
+Pembeli 129,L,Ya,1,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,215000000,94000000,12,0,Ya
+Pembeli 130,L,Ya,0,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,146000000,41000000,18,2,Ya
+Pembeli 131,L,Tidak,0,SMA,PNS,10jt s.d. <20jt,<1jt,Rumah,Ya,Ya,217000000,64000000,24,1,Ya
+Pembeli 132,L,Tidak,0,Pasca Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Tidak,Ya,244000000,91000000,18,2,Ya
+Pembeli 133,L,Tidak,0,SMA,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,133000000,45000000,18,2,Ya
+Pembeli 134,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,145000000,46000000,12,2+,Ya
+Pembeli 135,L,Tidak,0,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,149000000,42000000,18,2,Ya
+Pembeli 136,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,104000000,14000000,18,1,Tidak
+Pembeli 137,P,Ya,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,109000000,46000000,18,1,Ya
+Pembeli 138,L,Ya,2,SMA,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Rumah,Ya,Ya,229000000,74000000,18,0,Ya
+Pembeli 139,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,126000000,47000000,18,0,Tidak
+Pembeli 140,L,Ya,2,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,122000000,13000000,18,1,Ya
+Pembeli 141,L,Ya,2,Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,119000000,48000000,18,0,Ya
+Pembeli 142,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,250000000,80000000,18,2+,Tidak
+Pembeli 143,L,Tidak,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,102000000,12000000,12,2+,Ya
+Pembeli 144,L,Ya,0,Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,141000000,10000000,18,0,Ya
+Pembeli 145,L,Ya,2,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,204000000,80000000,12,1,Tidak
+Pembeli 146,P,Ya,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,128000000,35000000,18,2+,Ya
+Pembeli 147,P,Ya,2,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,184000000,97000000,18,2,Ya
+Pembeli 148,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Ya,Ya,234000000,56000000,18,1,Tidak
+Pembeli 149,P,Tidak,0,SMA,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,133000000,46000000,18,0,Ya
+Pembeli 150,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,127000000,17000000,18,2,Tidak
+Pembeli 151,L,Tidak,0,SMA,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Ya,Ya,105000000,38000000,18,0,Ya
+Pembeli 152,L,Ya,0,Sarjana,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Tanah,Ya,Ya,106000000,50000000,18,1,Ya
+Pembeli 153,L,Tidak,0,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,222000000,55000000,18,2+,Ya
+Pembeli 154,L,Ya,2,SMA,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,100000000,44000000,18,0,Ya
+Pembeli 155,L,Tidak,0,SMP,Wiraswasta,>30jt,5jt s.d. <10jt,Rumah,Tidak,Ya,205000000,91000000,18,1,Ya
+Pembeli 156,L,Ya,3+,Sarjana,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,106000000,15000000,12,2,Ya
+Pembeli 157,L,Ya,1,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,142000000,12000000,18,0,Ya
+Pembeli 158,L,Ya,1,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,184000000,96000000,18,2,Ya
+Pembeli 159,L,Tidak,0,SMA,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,124000000,37000000,18,2,Tidak
+Pembeli 160,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,128000000,28000000,18,2+,Ya
+Pembeli 161,L,Ya,0,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Tanah,Tidak,Ya,115000000,40000000,18,2+,Ya
+Pembeli 162,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Ya,Ya,241000000,72000000,18,2,Ya
+Pembeli 163,L,Ya,1,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,122000000,42000000,18,2+,Tidak
+Pembeli 164,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,149000000,10000000,18,1,Tidak
+Pembeli 165,L,Ya,0,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,195000000,62000000,12,0,Tidak
+Pembeli 166,L,Ya,0,SMP,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,138000000,30000000,12,2,Ya
+Pembeli 167,P,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,117000000,47000000,18,1,Tidak
+Pembeli 168,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,131000000,41000000,18,0,Tidak
+Pembeli 169,L,Tidak,0,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Ya,Ya,108000000,14000000,24,2,Ya
+Pembeli 170,L,Ya,2,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,112000000,43000000,18,1,Ya
+Pembeli 171,L,Ya,0,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,119000000,39000000,18,1,Ya
+Pembeli 172,L,Ya,3+,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,213000000,51000000,18,1,Ya
+Pembeli 173,L,Ya,3+,Pasca Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,115000000,26000000,12,2,Ya
+Pembeli 174,L,Ya,0,Sarjana,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Tidak,Ya,132000000,47000000,18,2+,Ya
+Pembeli 175,L,Ya,0,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,139000000,30000000,18,2,Ya
+Pembeli 176,L,Ya,0,SMA,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,107000000,38000000,18,2+,Ya
+Pembeli 177,L,Ya,2,SMA,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,120000000,30000000,18,2+,Ya
+Pembeli 178,L,Ya,3+,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,137000000,40000000,18,2+,Ya
+Pembeli 179,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,105000000,19000000,18,0,Ya
+Pembeli 180,L,Tidak,0,SMP,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Rumah,Ya,Ya,190000000,50000000,24,0,Ya
+Pembeli 181,L,Ya,1,SMA,Wiraswasta,>30jt,10jt s.d. <20jt,Rumah,Tidak,Ya,198000000,99000000,18,2+,Ya
+Pembeli 182,L,Tidak,0,Sarjana,PNS,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,123000000,19000000,18,2+,Ya
+Pembeli 183,L,Ya,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,116000000,13000000,12,2+,Tidak
+Pembeli 184,L,Ya,1,SMP,Wiraswasta,5jt s.d. <10jt,10jt s.d. <20jt,Tanah,Ya,Ya,133000000,38000000,18,0,Ya
+Pembeli 185,P,Ya,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,143000000,32000000,18,2,Tidak
+Pembeli 186,L,Ya,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,148000000,39000000,18,2+,Tidak
+Pembeli 187,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,108000000,24000000,18,2+,Ya
+Pembeli 188,L,Ya,0,SMA,Wiraswasta,>30jt,5jt s.d. <10jt,Tanah,Ya,Ya,110000000,23000000,18,2,Ya
+Pembeli 189,P,Ya,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,136000000,19000000,18,2+,Ya
+Pembeli 190,L,Ya,0,SMA,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,102000000,13000000,12,1,Ya
+Pembeli 191,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,106000000,25000000,18,2,Ya
+Pembeli 192,L,Tidak,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,150000000,30000000,18,2,Ya
+Pembeli 193,L,Ya,1,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,209000000,64000000,18,1,Ya
+Pembeli 194,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,150000000,41000000,18,0,Ya
+Pembeli 195,L,Tidak,0,Sarjana,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Tanah,Tidak,Ya,125000000,49000000,18,2+,Ya
+Pembeli 196,L,Ya,1,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,117000000,18000000,18,0,Ya
+Pembeli 197,L,Tidak,0,SMP,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,145000000,29000000,18,2+,Ya
+Pembeli 198,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,206000000,96000000,12,0,Tidak
+Pembeli 199,P,Ya,1,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,105000000,36000000,18,1,Ya
+Pembeli 200,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,214000000,73000000,18,2+,Tidak
+Pembeli 201,L,Ya,1,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,139000000,22000000,18,1,Tidak
+Pembeli 202,L,Tidak,2,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,138000000,17000000,18,2+,Tidak
+Pembeli 203,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,197000000,59000000,12,2,Tidak
+Pembeli 204,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,196000000,89000000,18,2,Tidak
+Pembeli 205,L,Ya,2,SMA,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,126000000,27000000,18,1,Ya
+Pembeli 206,P,Tidak,0,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,142000000,50000000,18,2,Ya
+Pembeli 207,P,Tidak,0,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,236000000,57000000,18,1,Ya
+Pembeli 208,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,141000000,32000000,18,1,Ya
+Pembeli 209,L,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,191000000,73000000,18,1,Ya
+Pembeli 210,L,Tidak,0,SMP,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,150000000,22000000,18,2,Ya
+Pembeli 211,P,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,140000000,14000000,18,1,Tidak
+Pembeli 212,L,Ya,3+,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,105000000,23000000,18,2,Tidak
+Pembeli 213,L,Ya,1,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Ya,Ya,195000000,93000000,18,2,Ya
+Pembeli 214,L,Ya,3+,Pasca Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,111000000,20000000,18,1,Ya
+Pembeli 215,L,Ya,1,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,188000000,62000000,18,2,Tidak
+Pembeli 216,L,Ya,3+,SMA,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,150000000,49000000,18,2+,Tidak
+Pembeli 217,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,140000000,23000000,18,0,Ya
+Pembeli 218,L,Ya,1,SMA,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Tanah,Tidak,Ya,125000000,26000000,18,2,Ya
+Pembeli 219,L,Ya,2,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,141000000,26000000,18,2+,Tidak
+Pembeli 220,P,Ya,2,Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,147000000,18000000,18,2+,Ya
+Pembeli 221,L,Ya,1,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,188000000,67000000,18,0,Tidak
+Pembeli 222,L,Ya,2,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,125000000,45000000,18,0,Ya
+Pembeli 223,L,Tidak,0,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,143000000,31000000,18,1,Ya
+Pembeli 224,L,Ya,0,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,110000000,46000000,18,1,Ya
+Pembeli 225,L,Ya,0,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,102000000,27000000,18,1,Ya
+Pembeli 226,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,103000000,38000000,18,2,Tidak
+Pembeli 227,L,Ya,1,Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Ya,Ya,246000000,67000000,18,0,Ya
+Pembeli 228,L,Ya,2,SMA,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,148000000,33000000,18,2,Ya
+Pembeli 229,L,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,101000000,37000000,24,2+,Tidak
+Pembeli 230,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,124000000,30000000,12,1,Tidak
+Pembeli 231,L,Ya,1,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,131000000,21000000,12,0,Tidak
+Pembeli 232,L,Ya,0,SMA,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,139000000,39000000,24,2+,Ya
+Pembeli 233,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,128000000,47000000,12,2+,Tidak
+Pembeli 234,P,Tidak,0,Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Tanah,Ya,Ya,134000000,46000000,18,0,Ya
+Pembeli 235,L,Ya,1,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,119000000,34000000,18,2,Ya
+Pembeli 236,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,108000000,20000000,18,2+,Tidak
+Pembeli 237,L,Ya,0,SMA,PNS,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,203000000,73000000,18,1,Ya
+Pembeli 238,P,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,238000000,84000000,18,2,Ya
+Pembeli 239,P,Tidak,1,SMA,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Tanah,Ya,Ya,146000000,42000000,18,1,Ya
+Pembeli 240,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,100000000,35000000,18,1,Ya
+Pembeli 241,L,Ya,2,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,101000000,20000000,12,2,Tidak
+Pembeli 242,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,212000000,62000000,12,0,Ya
+Pembeli 243,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,231000000,93000000,24,2,Ya
+Pembeli 244,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,118000000,34000000,18,2,Tidak
+Pembeli 245,L,Ya,0,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,128000000,35000000,18,1,Ya
+Pembeli 246,L,Tidak,0,SMA,POLRI-TNI,10jt s.d. <20jt,<1jt,Rumah,Tidak,Ya,186000000,69000000,12,2+,Tidak
+Pembeli 247,L,Ya,2,SMA,POLRI-TNI,10jt s.d. <20jt,<1jt,Rumah,Tidak,Ya,193000000,87000000,18,1,Ya
+Pembeli 248,L,Ya,1,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Tidak,Ya,237000000,89000000,12,2,Ya
+Pembeli 249,L,Ya,1,SMA,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,107000000,48000000,24,1,Ya
+Pembeli 250,L,Ya,0,Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Rumah,Tidak,Ya,204000000,100000000,18,0,Ya
+Pembeli 251,L,Ya,0,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,112000000,12000000,18,2,Tidak
+Pembeli 252,P,Tidak,2,Sarjana,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,189000000,90000000,18,1,Tidak
+Pembeli 253,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,112000000,15000000,18,0,Tidak
+Pembeli 254,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,134000000,18000000,12,2,Ya
+Pembeli 255,L,Tidak,0,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Ya,Ya,189000000,75000000,18,2,Ya
+Pembeli 256,P,Tidak,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,130000000,12000000,18,2+,Tidak
+Pembeli 257,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,146000000,32000000,18,1,Tidak
+Pembeli 258,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,184000000,99000000,18,1,Tidak
+Pembeli 259,L,Ya,0,Sarjana,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,105000000,35000000,18,1,Tidak
+Pembeli 260,L,Ya,3+,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,103000000,10000000,18,1,Tidak
+Pembeli 261,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,197000000,62000000,18,0,Tidak
+Pembeli 262,L,Tidak,0,SMP,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,142000000,25000000,18,2+,Ya
+Pembeli 263,P,Tidak,1,SMA,PNS,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,139000000,10000000,18,2,Tidak
+Pembeli 264,P,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,132000000,24000000,18,0,Tidak
+Pembeli 265,L,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,122000000,30000000,18,0,Tidak
+Pembeli 266,L,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,121000000,36000000,18,2+,Tidak
+Pembeli 267,L,Ya,2,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,150000000,12000000,18,1,Tidak
+Pembeli 268,L,Ya,3+,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,230000000,93000000,18,2+,Tidak
+Pembeli 269,P,Tidak,0,Pasca Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,110000000,38000000,18,1,Tidak
+Pembeli 270,P,Tidak,1,SMA,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,206000000,81000000,18,2,Ya
+Pembeli 271,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,242000000,91000000,18,2,Tidak
+Pembeli 272,L,Ya,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,246000000,94000000,18,2+,Tidak
+Pembeli 273,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,102000000,15000000,18,2+,Tidak
+Pembeli 274,L,Ya,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,132000000,41000000,18,2,Ya
+Pembeli 275,L,Ya,2,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,139000000,22000000,18,1,Tidak
+Pembeli 276,L,Ya,1,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,108000000,22000000,18,1,Tidak
+Pembeli 277,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,121000000,43000000,18,2+,Ya
+Pembeli 278,L,Ya,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,212000000,84000000,18,1,Tidak
+Pembeli 279,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,141000000,47000000,18,1,Tidak
+Pembeli 280,P,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,109000000,37000000,18,0,Tidak
+Pembeli 281,L,Tidak,1,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,249000000,78000000,18,2,Tidak
+Pembeli 282,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,120000000,22000000,18,1,Tidak
+Pembeli 283,L,Ya,2,Sarjana,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Rumah,Ya,Ya,238000000,89000000,12,2+,Ya
+Pembeli 284,P,Tidak,0,Pasca Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,228000000,63000000,18,0,Ya
+Pembeli 285,L,Ya,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,110000000,44000000,18,1,Tidak
+Pembeli 286,L,Tidak,0,SMA,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,127000000,46000000,18,1,Ya
+Pembeli 287,P,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,145000000,15000000,18,0,Tidak
+Pembeli 288,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,127000000,44000000,18,0,Tidak
+Pembeli 289,P,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,113000000,39000000,18,0,Tidak
+Pembeli 290,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,142000000,41000000,18,2+,Tidak
+Pembeli 291,L,Ya,1,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,132000000,36000000,18,0,Ya
+Pembeli 292,L,Ya,2,SMP,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Tidak,Ya,108000000,16000000,18,2+,Ya
+Pembeli 293,L,Ya,2,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,247000000,63000000,18,1,Tidak
+Pembeli 294,P,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,225000000,65000000,24,1,Ya
+Pembeli 295,L,Ya,1,Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Tanah,Tidak,Ya,145000000,43000000,18,1,Ya
+Pembeli 296,L,Ya,3+,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,196000000,83000000,18,2,Tidak
+Pembeli 297,L,Ya,1,Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,125000000,50000000,18,2+,Tidak
+Pembeli 298,P,Ya,1,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Ya,Ya,207000000,87000000,18,1,Ya
+Pembeli 299,P,Tidak,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,149000000,43000000,24,2,Ya
+Pembeli 300,L,Ya,1,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,219000000,56000000,18,0,Ya
+Pembeli 301,L,Ya,0,Pasca Sarjana,PNS,1jt s.d. <5jt,<1jt,Rumah,Ya,Ya,191000000,73000000,18,2+,Tidak
+Pembeli 302,L,Ya,2,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,123000000,45000000,18,1,Tidak
+Pembeli 303,P,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,106000000,12000000,18,2+,Ya
+Pembeli 304,L,Ya,1,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,193000000,84000000,18,1,Tidak
+Pembeli 305,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,123000000,24000000,18,2,Tidak
+Pembeli 306,L,Tidak,0,SMP,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Rumah,Tidak,Ya,228000000,61000000,18,1,Ya
+Pembeli 307,P,Tidak,0,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Tanah,Ya,Ya,142000000,20000000,18,2+,Ya
+Pembeli 308,P,Tidak,0,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,247000000,56000000,18,1,Ya
+Pembeli 309,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,104000000,49000000,18,2+,Tidak
+Pembeli 310,L,Ya,2,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,136000000,14000000,18,0,Ya
+Pembeli 311,P,Tidak,0,Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,122000000,44000000,18,0,Ya
+Pembeli 312,L,Tidak,0,Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,111000000,47000000,18,2+,Tidak
+Pembeli 313,P,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,106000000,32000000,18,1,Tidak
+Pembeli 314,L,Ya,2,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,129000000,18000000,12,0,Ya
+Pembeli 315,P,Ya,0,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,141000000,44000000,18,2+,Tidak
+Pembeli 316,L,Ya,1,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Ya,Ya,195000000,82000000,12,2,Ya
+Pembeli 317,L,Ya,2,Pasca Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,148000000,33000000,18,1,Ya
+Pembeli 318,L,Ya,0,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,180000000,58000000,18,0,Tidak
+Pembeli 319,P,Tidak,1,SMA,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Tanah,Tidak,Ya,146000000,41000000,18,1,Ya
+Pembeli 320,L,Ya,1,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,123000000,17000000,18,0,Tidak
+Pembeli 321,L,Ya,0,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,107000000,17000000,18,0,Tidak
+Pembeli 322,L,Ya,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,148000000,34000000,18,2+,Tidak
+Pembeli 323,L,Ya,2,SMA,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,133000000,49000000,18,2,Tidak
+Pembeli 324,P,Tidak,0,SMP,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Tanah,Ya,Ya,148000000,45000000,18,1,Ya
+Pembeli 325,L,Ya,3+,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,146000000,49000000,18,1,Ya
+Pembeli 326,L,Ya,1,SMP,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Ya,Ya,103000000,45000000,18,1,Ya
+Pembeli 327,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,101000000,22000000,18,2+,Ya
+Pembeli 328,L,Ya,1,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,101000000,28000000,18,1,Ya
+Pembeli 329,P,Ya,1,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,183000000,68000000,18,2,Ya
+Pembeli 330,P,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,189000000,75000000,18,0,Ya
+Pembeli 331,L,Tidak,1,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,191000000,77000000,18,1,Ya
+Pembeli 332,L,Tidak,0,Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,103000000,45000000,18,1,Ya
+Pembeli 333,L,Tidak,0,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Rumah,Ya,Ya,187000000,93000000,18,2+,Ya
+Pembeli 334,L,Ya,0,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,185000000,80000000,12,1,Tidak
+Pembeli 335,L,Ya,1,Pasca Sarjana,PNS,10jt s.d. <20jt,<1jt,Rumah,Ya,Ya,245000000,89000000,12,0,Ya
+Pembeli 336,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,113000000,38000000,12,2+,Tidak
+Pembeli 337,L,Ya,1,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,138000000,36000000,18,1,Tidak
+Pembeli 338,L,Ya,2,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,146000000,15000000,18,0,Tidak
+Pembeli 339,P,Tidak,3+,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,234000000,93000000,18,2,Ya
+Pembeli 340,P,Tidak,0,SMP,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,145000000,33000000,18,2,Ya
+Pembeli 341,L,Ya,3+,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,115000000,10000000,18,1,Ya
+Pembeli 342,P,Tidak,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,124000000,11000000,18,2,Tidak
+Pembeli 343,L,Ya,1,SMP,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,224000000,60000000,18,2,Ya
+Pembeli 344,L,Ya,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,146000000,40000000,18,2,Tidak
+Pembeli 345,L,Ya,2,SMP,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Tanah,Ya,Ya,150000000,17000000,18,0,Ya
+Pembeli 346,L,Ya,1,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,125000000,17000000,18,2,Ya
+Pembeli 347,L,Ya,3,Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,111000000,43000000,18,2,Ya
+Pembeli 348,L,Ya,2,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,192000000,50000000,18,2,Tidak
+Pembeli 349,L,Ya,0,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,116000000,14000000,18,0,Ya
+Pembeli 350,L,Ya,0,SMA,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,123000000,35000000,18,0,Ya
+Pembeli 351,L,Ya,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,125000000,14000000,18,1,Ya
+Pembeli 352,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,148000000,48000000,18,1,Tidak
+Pembeli 353,L,Ya,3+,SMA,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,147000000,16000000,18,2+,Tidak
+Pembeli 354,P,Ya,0,Sarjana,PNS,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,147000000,32000000,18,2,Ya
+Pembeli 355,P,Ya,0,Pasca Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,126000000,25000000,18,1,Ya
+Pembeli 356,P,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,241000000,50000000,12,0,Ya
+Pembeli 357,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,113000000,35000000,18,1,Tidak
+Pembeli 358,L,Ya,1,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,182000000,98000000,18,0,Ya
+Pembeli 359,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,214000000,94000000,24,1,Tidak
+Pembeli 360,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,117000000,33000000,18,0,Tidak
+Pembeli 361,P,Tidak,1,Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,100000000,24000000,18,1,Ya
+Pembeli 362,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,145000000,12000000,18,0,Tidak
+Pembeli 363,L,Ya,2,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,233000000,59000000,18,0,Ya
+Pembeli 364,L,Ya,3,SMA,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,240000000,67000000,18,0,Ya
+Pembeli 365,L,Tidak,0,SMP,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Tidak,Ya,134000000,31000000,18,1,Ya
+Pembeli 366,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,120000000,15000000,18,1,Tidak
+Pembeli 367,L,Tidak,0,SMA,PNS,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,133000000,44000000,24,2+,Ya
+Pembeli 368,L,Tidak,0,SMA,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,125000000,44000000,18,1,Ya
+Pembeli 369,L,Ya,1,Sarjana,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Tidak,Ya,132000000,18000000,18,0,Ya
+Pembeli 370,L,Ya,3,Pasca Sarjana,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,130000000,28000000,18,2,Ya
+Pembeli 371,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,131000000,31000000,18,2+,Tidak
+Pembeli 372,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,101000000,42000000,18,1,Tidak
+Pembeli 373,L,Ya,2,Pasca Sarjana,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,142000000,28000000,18,1,Ya
+Pembeli 374,L,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,250000000,80000000,12,0,Ya
+Pembeli 375,P,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,186000000,86000000,18,0,Ya
+Pembeli 376,L,Ya,2,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Tidak,Ya,199000000,54000000,12,2,Ya
+Pembeli 377,L,Ya,3+,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,119000000,30000000,18,2+,Tidak
+Pembeli 378,L,Ya,3+,Sarjana,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,130000000,22000000,18,0,Ya
+Pembeli 379,L,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,239000000,75000000,24,2,Ya
+Pembeli 380,L,Ya,2,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,189000000,95000000,18,2,Ya
+Pembeli 381,L,Ya,1,SMA,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,125000000,42000000,18,2+,Ya
+Pembeli 382,L,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,122000000,25000000,18,0,Ya
+Pembeli 383,P,Tidak,0,SMA,PNS,10jt s.d. <20jt,<1jt,Rumah,Ya,Ya,213000000,93000000,18,2+,Ya
+Pembeli 384,L,Tidak,0,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,199000000,55000000,18,2,Ya
+Pembeli 385,L,Ya,2,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,184000000,94000000,18,1,Tidak
+Pembeli 386,L,Tidak,0,SMA,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,221000000,82000000,12,2,Ya
+Pembeli 387,L,Tidak,0,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,132000000,47000000,18,0,Tidak
+Pembeli 388,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,220000000,64000000,18,2,Tidak
+Pembeli 389,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,221000000,75000000,18,2,Tidak
+Pembeli 390,L,Ya,1,Sarjana,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,113000000,31000000,18,1,Ya
+Pembeli 391,L,Tidak,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,127000000,17000000,18,0,Tidak
+Pembeli 392,L,Ya,3+,SMA,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,103000000,39000000,18,1,Ya
+Pembeli 393,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,212000000,84000000,18,1,Tidak
+Pembeli 394,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,110000000,24000000,12,0,Tidak
+Pembeli 395,L,Ya,2,SMP,Wiraswasta,>30jt,5jt s.d. <10jt,Rumah,Tidak,Ya,245000000,95000000,18,2+,Ya
+Pembeli 396,L,Ya,2,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,141000000,40000000,18,0,Tidak
+Pembeli 397,P,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,192000000,93000000,18,2,Ya
+Pembeli 398,L,Ya,3+,SMA,POLRI-TNI,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,187000000,60000000,18,0,Ya
+Pembeli 399,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,117000000,22000000,18,1,Tidak
+Pembeli 400,P,Tidak,0,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,150000000,33000000,18,1,Ya
+Pembeli 401,L,Ya,2,Sarjana,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Ya,Ya,217000000,91000000,12,2,Ya
+Pembeli 402,L,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,100000000,17000000,18,1,Ya
+Pembeli 403,L,Tidak,0,SMA,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,105000000,46000000,18,2+,Ya
+Pembeli 404,P,Tidak,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,119000000,35000000,18,0,Ya
+Pembeli 405,P,Tidak,0,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,114000000,27000000,18,0,Tidak
+Pembeli 406,P,Tidak,0,SMA,Wiraswasta,>30jt,5jt s.d. <10jt,Tanah,Ya,Ya,141000000,38000000,18,2,Ya
+Pembeli 407,L,Ya,2,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,191000000,85000000,18,1,Tidak
+Pembeli 408,P,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,141000000,23000000,18,2+,Tidak
+Pembeli 409,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,141000000,33000000,18,2,Tidak
+Pembeli 410,L,Ya,3+,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,129000000,18000000,18,2,Ya
+Pembeli 411,P,Tidak,0,SMA,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Tanah,Ya,Ya,123000000,49000000,18,0,Ya
+Pembeli 412,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,204000000,95000000,18,2,Ya
+Pembeli 413,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,124000000,43000000,18,0,Tidak
+Pembeli 414,L,Ya,3,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,135000000,26000000,18,0,Tidak
+Pembeli 415,P,Ya,3+,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,117000000,14000000,18,1,Ya
+Pembeli 416,P,Tidak,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Rumah,Ya,Ya,181000000,64000000,18,1,Ya
+Pembeli 417,P,Tidak,0,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,187000000,86000000,18,1,Tidak
+Pembeli 418,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,227000000,75000000,18,1,Tidak
+Pembeli 419,L,Ya,2,SMP,Wiraswasta,>30jt,5jt s.d. <10jt,Tanah,Tidak,Ya,123000000,43000000,18,2+,Ya
+Pembeli 420,L,Ya,3,Sarjana,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,143000000,27000000,18,2+,Ya
+Pembeli 421,L,Ya,1,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,122000000,15000000,18,1,Ya
+Pembeli 422,P,Tidak,0,SMA,PNS,1jt s.d. <5jt,<1jt,Rumah,Ya,Ya,226000000,72000000,12,1,Tidak
+Pembeli 423,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Tidak,Ya,212000000,93000000,18,2,Ya
+Pembeli 424,L,Ya,1,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Rumah,Ya,Ya,225000000,62000000,12,1,Tidak
+Pembeli 425,L,Ya,2,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,122000000,15000000,18,0,Tidak
+Pembeli 426,L,Ya,3,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,149000000,25000000,18,1,Tidak
+Pembeli 427,P,Tidak,1,Pasca Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,138000000,19000000,18,0,Tidak
+Pembeli 428,L,Ya,2,Sarjana,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Tanah,Ya,Ya,112000000,50000000,18,0,Ya
+Pembeli 429,L,Ya,1,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,142000000,20000000,18,2,Ya
+Pembeli 430,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,184000000,74000000,12,1,Tidak
+Pembeli 431,P,Tidak,0,Pasca Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,128000000,14000000,18,0,Tidak
+Pembeli 432,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,102000000,29000000,18,2+,Tidak
+Pembeli 433,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,110000000,16000000,18,2+,Tidak
+Pembeli 434,L,Ya,1,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Tanah,Tidak,Ya,133000000,14000000,18,2+,Ya
+Pembeli 435,L,Tidak,0,SMP,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Rumah,Tidak,Ya,204000000,53000000,18,2+,Ya
+Pembeli 436,P,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,126000000,43000000,12,2,Tidak
+Pembeli 437,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,103000000,13000000,18,2,Tidak
+Pembeli 438,L,Ya,0,Sarjana,PNS,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,236000000,52000000,18,0,Ya
+Pembeli 439,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,205000000,87000000,18,1,Tidak
+Pembeli 440,P,Ya,0,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,103000000,27000000,18,2,Ya
+Pembeli 441,L,Tidak,0,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,147000000,50000000,18,2+,Ya
+Pembeli 442,L,Ya,0,Sarjana,PNS,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,142000000,32000000,18,1,Ya
+Pembeli 443,L,Tidak,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,124000000,44000000,18,2,Tidak
+Pembeli 444,L,Tidak,1,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,124000000,29000000,18,0,Tidak
+Pembeli 445,L,Ya,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,104000000,39000000,18,0,Tidak
+Pembeli 446,L,Ya,1,SMA,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,121000000,21000000,18,1,Ya
+Pembeli 447,L,Ya,2,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,136000000,24000000,18,1,Ya
+Pembeli 448,L,Ya,0,SMA,Wiraswasta,5jt s.d. <10jt,10jt s.d. <20jt,Tanah,Tidak,Ya,104000000,17000000,18,2,Ya
+Pembeli 449,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,150000000,45000000,18,1,Tidak
+Pembeli 450,L,Tidak,1,Sarjana,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,143000000,25000000,18,0,Ya
+Pembeli 451,L,Ya,2,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,150000000,18000000,18,2+,Ya
+Pembeli 452,L,Ya,2,SMA,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Rumah,Tidak,Ya,232000000,87000000,18,0,Ya
+Pembeli 453,L,Ya,0,Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,101000000,50000000,18,1,Ya
+Pembeli 454,L,Ya,0,SMA,PNS,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,139000000,41000000,12,2,Ya
+Pembeli 455,L,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,138000000,22000000,18,0,Ya
+Pembeli 456,L,Ya,2,Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,121000000,32000000,18,1,Tidak
+Pembeli 457,L,Ya,0,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Rumah,Ya,Ya,186000000,71000000,18,2+,Tidak
+Pembeli 458,L,Ya,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Tidak,Ya,225000000,80000000,18,2+,Ya
+Pembeli 459,L,Tidak,2,Pasca Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,119000000,34000000,18,2,Ya
+Pembeli 460,L,Ya,0,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,112000000,37000000,18,2+,Tidak
+Pembeli 461,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,115000000,41000000,18,0,Ya
+Pembeli 462,L,Ya,3+,Pasca Sarjana,PNS,10jt s.d. <20jt,<1jt,Rumah,Ya,Ya,191000000,66000000,12,2,Ya
+Pembeli 463,L,Ya,0,SMA,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,121000000,11000000,18,0,Ya
+Pembeli 464,P,Tidak,1,Sarjana,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Tanah,Ya,Ya,137000000,47000000,18,2,Ya
+Pembeli 465,L,Tidak,0,Pasca Sarjana,Wiraswasta,>30jt,5jt s.d. <10jt,Tanah,Ya,Ya,133000000,32000000,18,0,Ya
+Pembeli 466,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,143000000,48000000,18,1,Tidak
+Pembeli 467,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,238000000,60000000,12,2,Tidak
+Pembeli 468,P,Ya,0,SMA,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,112000000,42000000,18,1,Ya
+Pembeli 469,P,Ya,2,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,141000000,22000000,18,2+,Ya
+Pembeli 470,L,Ya,0,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,193000000,71000000,18,2,Tidak
+Pembeli 471,L,Ya,1,Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,115000000,48000000,18,2,Tidak
+Pembeli 472,L,Ya,1,SMA,POLRI-TNI,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,126000000,20000000,12,1,Tidak
+Pembeli 473,L,Ya,3+,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,112000000,25000000,18,2+,Ya
+Pembeli 474,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,211000000,77000000,18,2+,Tidak
+Pembeli 475,L,Tidak,2,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,133000000,10000000,18,2,Ya
+Pembeli 476,L,Ya,2,SMA,POLRI-TNI,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,137000000,18000000,18,2,Ya
+Pembeli 477,L,Ya,2,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,150000000,12000000,18,1,Ya
+Pembeli 478,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,137000000,47000000,18,2,Tidak
+Pembeli 479,L,Ya,1,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Ya,Ya,101000000,32000000,18,2+,Ya
+Pembeli 480,L,Ya,2,SMA,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Rumah,Ya,Ya,243000000,85000000,18,0,Ya
+Pembeli 481,P,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,129000000,50000000,18,2,Ya
+Pembeli 482,L,Ya,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,139000000,18000000,18,0,Tidak
+Pembeli 483,L,Ya,0,SMA,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,112000000,30000000,18,1,Ya
+Pembeli 484,L,Ya,0,SMA,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,141000000,35000000,18,2,Ya
+Pembeli 485,L,Ya,2,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Ya,Ya,150000000,13000000,18,2+,Ya
+Pembeli 486,L,Ya,1,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,135000000,18000000,18,2+,Ya
+Pembeli 487,L,Tidak,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,134000000,12000000,18,0,Tidak
+Pembeli 488,L,Ya,1,SMA,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,187000000,68000000,18,2,Ya
+Pembeli 489,L,Ya,2,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,100000000,40000000,18,2+,Ya
+Pembeli 490,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,224000000,86000000,18,2+,Tidak
+Pembeli 491,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,122000000,10000000,18,2+,Tidak
+Pembeli 492,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,209000000,71000000,18,0,Tidak
+Pembeli 493,L,Tidak,0,Sarjana,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Tanah,Ya,Ya,119000000,49000000,18,2,Ya
+Pembeli 494,P,Tidak,0,Pasca Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,123000000,43000000,18,2+,Tidak
+Pembeli 495,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,147000000,12000000,18,1,Tidak
+Pembeli 496,P,Ya,1,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,133000000,21000000,12,2+,Ya
+Pembeli 497,L,Ya,0,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,113000000,41000000,18,1,Tidak
+Pembeli 498,L,Ya,0,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,213000000,73000000,12,2,Tidak
+Pembeli 499,L,Ya,1,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,130000000,19000000,18,1,Tidak
+Pembeli 500,L,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Ya,Ya,130000000,22000000,18,1,Ya
+Pembeli 501,P,Tidak,0,Pasca Sarjana,PNS,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,143000000,34000000,24,0,Ya
+Pembeli 502,P,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,107000000,22000000,18,1,Tidak
+Pembeli 503,L,Ya,2,Sarjana,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,143000000,12000000,18,2,Ya
+Pembeli 504,L,Ya,1,SMA,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,139000000,16000000,18,2,Ya
+Pembeli 505,L,Ya,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,150000000,34000000,18,2,Ya
+Pembeli 506,L,Ya,2,SMA,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,108000000,47000000,18,2+,Tidak
+Pembeli 507,L,Ya,0,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Ya,Ya,190000000,68000000,18,0,Ya
+Pembeli 508,L,Tidak,0,Pasca Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Ya,Ya,188000000,54000000,18,0,Ya
+Pembeli 509,L,Ya,0,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,188000000,71000000,18,2,Tidak
+Pembeli 510,P,Tidak,1,Sarjana,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Rumah,Ya,Ya,211000000,93000000,18,0,Ya
+Pembeli 511,L,Tidak,0,SMP,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,125000000,30000000,18,2+,Tidak
+Pembeli 512,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,139000000,47000000,18,1,Ya
+Pembeli 513,L,Ya,2,SMA,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Tidak,Ya,205000000,62000000,18,0,Ya
+Pembeli 514,L,Ya,0,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,129000000,11000000,12,0,Tidak
+Pembeli 515,L,Tidak,0,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,111000000,26000000,18,1,Tidak
+Pembeli 516,L,Ya,3+,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,143000000,36000000,18,2,Tidak
+Pembeli 517,P,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,140000000,18000000,24,0,Tidak
+Pembeli 518,L,Ya,3+,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,104000000,40000000,18,0,Tidak
+Pembeli 519,L,Tidak,0,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,100000000,14000000,18,2+,Tidak
+Pembeli 520,P,Tidak,0,Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,127000000,36000000,18,0,Ya
+Pembeli 521,L,Ya,2,Sarjana,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Ya,Ya,136000000,11000000,18,2+,Ya
+Pembeli 522,L,Tidak,0,Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,105000000,39000000,18,2+,Ya
+Pembeli 523,L,Ya,3+,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Tidak,Ya,136000000,50000000,18,2,Tidak
+Pembeli 524,L,Ya,2,SMA,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,139000000,20000000,18,1,Ya
+Pembeli 525,L,Tidak,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,100000000,11000000,18,2+,Ya
+Pembeli 526,L,Ya,2,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,125000000,10000000,18,2+,Ya
+Pembeli 527,L,Ya,0,Sarjana,PNS,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,128000000,40000000,18,2,Ya
+Pembeli 528,L,Ya,1,SMA,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,104000000,11000000,18,2,Tidak
+Pembeli 529,L,Tidak,1,Sarjana,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Tanah,Tidak,Ya,109000000,17000000,18,2,Ya
+Pembeli 530,L,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,100000000,17000000,18,2,Ya
+Pembeli 531,L,Ya,0,Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Tidak,Ya,142000000,48000000,18,1,Tidak
+Pembeli 532,L,Ya,3+,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,186000000,76000000,18,2+,Ya
+Pembeli 533,L,Tidak,2,Sarjana,Wiraswasta,5jt s.d. <10jt,10jt s.d. <20jt,Tanah,Tidak,Ya,102000000,20000000,18,1,Ya
+Pembeli 534,L,Tidak,1,Pasca Sarjana,PNS,1jt s.d. <5jt,<1jt,Tanah,Tidak,Ya,119000000,41000000,18,1,Tidak
+Pembeli 535,P,Tidak,0,Pasca Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Tidak,Ya,211000000,60000000,18,2,Ya
+Pembeli 536,L,Tidak,0,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,145000000,47000000,18,2,Ya
+Pembeli 537,L,Ya,0,Sarjana,PNS,10jt s.d. <20jt,<1jt,Rumah,Tidak,Ya,214000000,88000000,18,2+,Ya
+Pembeli 538,L,Tidak,2,SMP,Wiraswasta,>30jt,5jt s.d. <10jt,Tanah,Tidak,Ya,139000000,46000000,18,2+,Ya
+Pembeli 539,L,Ya,0,Sarjana,PNS,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,141000000,46000000,18,2+,Ya
+Pembeli 540,L,Ya,3+,Pasca Sarjana,PNS,1jt s.d. <5jt,5jt s.d. <10jt,Tanah,Ya,Ya,147000000,16000000,12,1,Tidak
+Pembeli 541,P,Ya,1,SMA,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,111000000,36000000,12,1,Ya
+Pembeli 542,P,Tidak,0,Pasca Sarjana,Wiraswasta,>30jt,10jt s.d. <20jt,Tanah,Tidak,Ya,101000000,33000000,18,2+,Ya
+Pembeli 543,P,Tidak,1,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,115000000,28000000,18,0,Tidak
+Pembeli 544,L,Ya,1,SD,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,230000000,80000000,18,1,Tidak
+Pembeli 545,P,Ya,0,SMA,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,127000000,33000000,18,2,Ya
+Pembeli 546,L,Ya,0,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,119000000,43000000,18,2+,Tidak
+Pembeli 547,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Tidak,Ya,145000000,12000000,18,2,Tidak
+Pembeli 548,L,Tidak,0,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,135000000,40000000,18,0,Ya
+Pembeli 549,P,Tidak,0,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,149000000,12000000,18,2+,Tidak
+Pembeli 550,L,Ya,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,121000000,38000000,18,0,Tidak
+Pembeli 551,L,Ya,2,Sarjana,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,101000000,31000000,18,2,Tidak
+Pembeli 552,L,Ya,1,SMA,Wiraswasta,20jt s.d. <30jt,10jt s.d. <20jt,Tanah,Ya,Ya,134000000,28000000,18,2+,Ya
+Pembeli 553,L,Ya,1,Sarjana,PNS,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,223000000,60000000,18,1,Ya
+Pembeli 554,L,Ya,0,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,245000000,100000000,18,0,Tidak
+Pembeli 555,L,Ya,0,SMP,Wiraswasta,20jt s.d. <30jt,5jt s.d. <10jt,Tanah,Tidak,Ya,101000000,45000000,12,2+,Ya
+Pembeli 556,L,Ya,1,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,145000000,27000000,18,2+,Tidak
+Pembeli 557,P,Tidak,0,SMP,Buruh Lepas,<1jt,0,Rumah,Tidak,Ya,215000000,54000000,18,1,Tidak
+Pembeli 558,L,Ya,3+,SMA,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,150000000,31000000,18,2,Ya
+Pembeli 559,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Ya,Ya,100000000,50000000,18,2,Ya
+Pembeli 560,P,Ya,0,Pasca Sarjana,PNS,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,111000000,26000000,18,2,Ya
+Pembeli 561,L,Ya,2,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,150000000,16000000,18,2,Ya
+Pembeli 562,P,Ya,1,Sarjana,POLRI-TNI,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,140000000,16000000,18,1,Ya
+Pembeli 563,L,Ya,0,SMA,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Tidak,Ya,120000000,17000000,18,2,Ya
+Pembeli 564,L,Tidak,0,SMA,POLRI-TNI,1jt s.d. <5jt,1jt s.d. <5jt,Tanah,Ya,Ya,106000000,25000000,18,2,Tidak
+Pembeli 565,L,Ya,2,SMP,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Rumah,Tidak,Ya,236000000,90000000,18,1,Ya
+Pembeli 566,L,Ya,0,SMA,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Ya,Ya,106000000,25000000,18,0,Ya
+Pembeli 567,L,Tidak,0,Pasca Sarjana,Wiraswasta,>30jt,10jt s.d. <20jt,Rumah,Tidak,Ya,232000000,75000000,18,0,Ya
+Pembeli 568,L,Ya,3+,SMP,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Tanah,Tidak,Ya,106000000,37000000,18,2+,Ya
+Pembeli 569,P,Tidak,0,Sarjana,PNS,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,213000000,84000000,18,2+,Tidak
+Pembeli 570,L,Ya,0,Pasca Sarjana,Pegawai Swasta,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,232000000,86000000,18,1,Ya
+Pembeli 571,L,Ya,1,SMA,Wiraswasta,10jt s.d. <20jt,1jt s.d. <5jt,Rumah,Ya,Ya,233000000,54000000,18,1,Ya
+Pembeli 572,L,Ya,2,Pasca Sarjana,Wiraswasta,20jt s.d. <30jt,1jt s.d. <5jt,Rumah,Ya,Ya,225000000,69000000,18,0,Ya
+Pembeli 573,L,Ya,2,SMA,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Tidak,Ya,237000000,65000000,18,0,Tidak
+Pembeli 574,L,Ya,2,SMP,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,145000000,16000000,24,0,Tidak
+Pembeli 575,L,Ya,3+,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,149000000,50000000,18,2,Ya
+Pembeli 576,L,Ya,2,Pasca Sarjana,Pegawai Swasta,1jt s.d. <5jt,1jt s.d. <5jt,Rumah,Ya,Ya,204000000,95000000,12,0,Tidak
+Pembeli 577,P,Ya,0,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,10jt s.d. <20jt,Tanah,Tidak,Ya,114000000,16000000,18,2+,Ya
+Pembeli 578,L,Tidak,0,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Rumah,Tidak,Ya,208000000,59000000,18,2,Ya
+Pembeli 579,L,Ya,1,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,10jt s.d. <20jt,Tanah,Ya,Ya,130000000,27000000,18,2,Ya
+Pembeli 580,L,Tidak,0,SMA,PNS,5jt s.d. <10jt,<1jt,Rumah,Tidak,Ya,203000000,76000000,18,2,Ya
+Pembeli 581,L,Ya,2,Sarjana,PNS,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,145000000,44000000,18,2,Ya
+Pembeli 582,L,Tidak,0,SD,Buruh Lepas,<1jt,0,Rumah,Ya,Ya,228000000,93000000,18,2,Tidak
+Pembeli 583,P,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,<1jt,Tanah,Tidak,Ya,138000000,31000000,18,1,Ya
+Pembeli 584,L,Ya,1,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,147000000,17000000,18,1,Tidak
+Pembeli 585,L,Ya,1,Sarjana,Pegawai Swasta,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,150000000,40000000,18,2+,Tidak
+Pembeli 586,L,Ya,1,Sarjana,Pegawai Swasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,142000000,47000000,12,0,Tidak
+Pembeli 587,L,Ya,0,SMA,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Ya,Ya,207000000,58000000,18,2,Ya
+Pembeli 588,P,Tidak,0,Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,118000000,27000000,18,2+,Ya
+Pembeli 589,P,Tidak,0,SMA,PNS,5jt s.d. <10jt,<1jt,Tanah,Tidak,Ya,102000000,43000000,18,2,Ya
+Pembeli 590,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,134000000,14000000,18,2,Tidak
+Pembeli 591,L,Ya,0,Pasca Sarjana,Wiraswasta,5jt s.d. <10jt,5jt s.d. <10jt,Tanah,Tidak,Ya,116000000,13000000,12,2,Ya
+Pembeli 592,L,Ya,2,SMP,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Tidak,Ya,144000000,14000000,12,2,Ya
+Pembeli 593,P,Tidak,0,Sarjana,Wiraswasta,5jt s.d. <10jt,1jt s.d. <5jt,Tanah,Ya,Ya,127000000,36000000,18,2+,Ya
+Pembeli 594,L,Ya,0,Sarjana,Wiraswasta,>30jt,1jt s.d. <5jt,Tanah,Tidak,Ya,129000000,48000000,12,1,Ya
+Pembeli 595,L,Ya,0,Pasca Sarjana,Wiraswasta,10jt s.d. <20jt,5jt s.d. <10jt,Rumah,Tidak,Ya,181000000,73000000,18,1,Ya
+Pembeli 596,L,Tidak,0,SMA,POLRI-TNI,1jt s.d. <5jt,<1jt,Tanah,Ya,Ya,143000000,17000000,18,2+,Tidak
+Pembeli 597,L,Ya,2,SD,Buruh Lepas,<1jt,0,Tanah,Ya,Ya,122000000,35000000,18,2+,Tidak
+Pembeli 598,L,Tidak,0,SMA,Pegawai Swasta,5jt s.d. <10jt,<1jt,Tanah,Ya,Ya,112000000,40000000,18,1,Ya
+Pembeli 599,L,Ya,0,Sarjana,POLRI-TNI,10jt s.d. <20jt,5jt s.d. <10jt,Tanah,Tidak,Ya,127000000,21000000,18,2+,Ya
+Pembeli 600,L,Ya,2,Pasca Sarjana,PNS,5jt s.d. <10jt,<1jt,Rumah,Ya,Ya,224000000,72000000,18,1,Ya

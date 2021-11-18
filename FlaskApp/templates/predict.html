@@ -1,0 +1,14 @@
+{% extends "template.html" %}
+{% block content %}
+  <h1>Berikut Kami Sampaikan Prediksi Persetujuan Pembelian Rumah Anda</h1>
+  <p class="fs-5 col-md-8">Web Aplikasi ini ditujukan untuk pengembangan Robo Advisor Syariah yang merupakan
+    hibah penelitian dosen pemula (PDP) tahun 2021</p>
+  <p>{{ prediction_text }}</p>
+
+  <div class="mb-5">
+    <a href="/coba-beli" class="btn btn-primary btn-lg px-4">Coba Beli Rumah</a>
+  </div>
+
+  <hr class="col-4 col-md-4 mb-4">
+
+{% endblock %}
